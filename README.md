@@ -22,5 +22,5 @@
 http://fantasru.github.io/2015/12/14/wordcloud/
 
 
-
+mysql1利用mysql-connector-python实现对mysql数据库中数据的控制
 
